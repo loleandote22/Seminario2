@@ -1,0 +1,15 @@
+C:\Users\alfos\source\repos\Seminario2\Seminario2\bin\Debug\Seminario2.exe.config
+C:\Users\alfos\source\repos\Seminario2\Seminario2\bin\Debug\Seminario2.exe
+C:\Users\alfos\source\repos\Seminario2\Seminario2\bin\Debug\Seminario2.pdb
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2.csproj.AssemblyReference.cache
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\MainWindow.g.cs
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\App.g.cs
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2_MarkupCompile.cache
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2_MarkupCompile.lref
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\MainWindow.baml
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2.g.resources
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2.Properties.Resources.resources
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2.csproj.GenerateResource.cache
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2.csproj.CoreCompileInputs.cache
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2.exe
+C:\Users\alfos\source\repos\Seminario2\Seminario2\obj\Debug\Seminario2.pdb
